@@ -1,0 +1,3 @@
+Tom started to learn Python five months ago.
+He lives in London. He wants to be a programmer.
+Python is all he can think off right now.
