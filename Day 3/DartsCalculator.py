@@ -2,7 +2,9 @@
 import re
 
 """
-
+Analyses .csv file to calculate the results, counting points and generating report with
+subreports for every round and final report. Assumes the first line of the .csv is the 
+names of the players.
 """
 
 file_name = "scores.csv"
