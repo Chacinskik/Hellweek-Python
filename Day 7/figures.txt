@@ -1,0 +1,9 @@
+kwadrat,3
+trojkat,2,5
+trapez,10,20,3
+kolo,10
+szescian,5
+trujkat,6
+kolo,2
+kolo,3
+kolo,7
